@@ -19,7 +19,10 @@ Looking to be part of a vigilant team..</p>
 - 🌱 I’m currently learning ... Data Analytics (Python)
 
 <h4>Contact me</h4>
-
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/"
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,dart,py,django,flask,github,eclipse,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
 
