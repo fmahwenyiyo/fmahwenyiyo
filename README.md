@@ -19,7 +19,7 @@ Looking to be part of a vigilant team..</p>
 - 🌱 I’m currently learning ... Data Analytics (Python)
 
 <h4>Contact me</h4>
-<p><a href="www.linkedin.com/in/freedom-mahwenyiyo-72849098/"><img src="https://img.shields.io/badge/-@freedom-mahwenyiyo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/freedom-mahwenyiyo/" alt="LinkedIn Badge"></a></p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,dart,py,django,flask,github,eclipse,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
 
