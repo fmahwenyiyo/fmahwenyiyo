@@ -21,7 +21,7 @@ Looking to be part of a vigilant team..</p>
 <h4>Contact me</h4>
 <p><a href="https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/"><img src="https://media-exp2.licdn.com/dms/image/D5635AQECbUFrVIpEyA/profile-framedphoto-shrink_200_200/0/1633935358178?e=1655481600&v=beta&t=L-hTwZ9CByDzmSOE5qT7O8xoJhAX7R3S3M_O-6cH8bA" alt="LinkedIn Badge"></a></p>
 
-[![My Skills](https://skillicons.dev/icons?i=c#,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
 
 <h4>Github Status</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&include_all_commits=true&theme=dark" alt="Freedom's's Stats" />
