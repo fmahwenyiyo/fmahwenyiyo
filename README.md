@@ -21,9 +21,9 @@ Looking to be part of a vigilant team..</p>
 <h4>Contact me</h4>
 <p><a href="https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/"><img src="https://img.shields.io/badge/-@freedom-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/" alt="LinkedIn Badge"></a></p>
 
-[![My Skills](https://skillicons.dev/icons?color=white&size=100&cs=true&java=true&dart=true&py=true&django=true&flask=true&github=true&eclipse=true&js=true&html=true&css=true&git=true&bootstrap=true&react=true&nextjs=true&nodejs=true&wordpress=true&vscode=true&flutter=true&jquery=true&mysql=true&postgres=true&mongodb=true&firebase=true&php=true)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,dart,py,django,flask,github,eclipse,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
 
 <h4>Github Status</h4>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&include_all_commits=true&theme=dark" alt="Freedom's's Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&langs_count=10&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
