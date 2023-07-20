@@ -24,6 +24,6 @@ Looking to be part of a vigilant team..</p>
 [![My Skills](https://skillicons.dev/icons?i=cs,java,dart,py,django,flask,github,eclipse,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
 
 <h4>Github Status</h4>
-![fmahwenyiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&include_all_commits=true&theme=dark" alt="Freedom's's Stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
