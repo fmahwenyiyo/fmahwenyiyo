@@ -27,3 +27,8 @@ Looking to be part of a vigilant team..</p>
 <img src="https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&include_all_commits=true&theme=dark" alt="Freedom's's Stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&langs_count=10&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
+
+
+![fmahwenyiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fmahwenyiyo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
