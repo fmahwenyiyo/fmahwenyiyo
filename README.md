@@ -22,6 +22,3 @@ Looking to be part of a vigilant team..</p>
 <p><a href="https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/"><img src="https://img.shields.io/badge/-@freedom-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/freedom-mahwenyiyo-72849098/" alt="LinkedIn Badge"></a></p>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,java,dart,py,django,flask,github,eclipse,js,html,css,git,bootstrap,react,nextjs,nodejs,wordpress,vscode,flutter,jquery,mysql,postgres,mongodb,firebase,php)](https://skillicons.dev)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmahwenyiyo&layout=compact&theme=dark)](https://github.com/fmahwenyiyo)
